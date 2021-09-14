@@ -1,0 +1,15 @@
+{
+  "name": "jsassessment",
+  "version": "1.0.0",
+  "description": "This package is for Javascript Assessment",
+  "main": "index.js",
+  "scripts": {
+    "startgame": "node game.js"
+  },
+  "author": "Miin Huey",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
